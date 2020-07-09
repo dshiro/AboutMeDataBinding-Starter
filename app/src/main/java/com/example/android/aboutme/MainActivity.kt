@@ -78,8 +78,7 @@ class MainActivity : AppCompatActivity() {
         imm.hideSoftInputFromWindow(view.windowToken, 0)
 
 
-        //NEW
-        //NEW 2
-        //NEW 3
+
+        //NEW CONTENT
     }
 }
